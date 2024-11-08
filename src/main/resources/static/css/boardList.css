@@ -1,0 +1,10 @@
+#post-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+#post-list li {
+    cursor: pointer;
+    margin: 5px 0;
+    color: blue;
+}
